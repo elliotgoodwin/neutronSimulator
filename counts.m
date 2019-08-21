@@ -1,6 +1,6 @@
 function [ absorb_count, reflect_count, transmit_count ] = counts( k, mfp, absorbprob, x)
-%A function that simulates the path taken by a total of k neutrons in a
-%material of thickness x with a mean free path, 'mfp', and probability to 
+% A function that simulates the path taken by a total of k neutrons in a
+% material of thickness x with a mean free path, 'mfp', and probability to 
 % absorb neutrons, 'absorbprob'
 
 absorb_count = 0;
