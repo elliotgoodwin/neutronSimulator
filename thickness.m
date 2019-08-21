@@ -15,6 +15,17 @@ clear all;  close all;  format long;
 
 % Avagadro's number
 N_A = 6.0221e23;
+
+% Parameter definitions
+
+    % D - density
+    % A - absorbtion cross section
+    % S - scattering cross section
+    % M - molar mass
+    % n - number of particles available for interaction
+    % AX - macroscopic absorption cross section
+    % SX - macroscopic scatter cross section
+    % TX - total interaction cross section
     
 % water parameters
 D_w = 1;
