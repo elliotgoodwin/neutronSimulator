@@ -1,0 +1,1 @@
+% Random numbers% generate 10000 random numbersa = 10000;b = rand(a);x = b(1:3:end-2);y = b(1:3:end-1);z = b(1:3:end);plot3(x, y, x);
