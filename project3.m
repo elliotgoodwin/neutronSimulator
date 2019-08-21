@@ -1,8 +1,8 @@
-% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Project 3 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%% neutronSimulator %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % A script that uses monte-carlo methods to track the path of thermal 
 % neutrons through shielding
 % NB c.g.s units used throughout the simulation
-% Elliot Goodwin - 9621958
+% Elliot Goodwin
 
 clear all;  close all;  format long;
 
